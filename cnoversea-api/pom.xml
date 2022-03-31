@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <org.springframework.boot.version>2.1.7.RELEASE</org.springframework.boot.version>
+        <org.springframework.boot.version>2.5.12</org.springframework.boot.version>
         <org.springframework.spring.version>5.1.9.RELEASE</org.springframework.spring.version>
         <fastjson.version>1.2.62</fastjson.version>
         <mysql.connector.version>8.0.17</mysql.connector.version>
